@@ -81,6 +81,7 @@ input:focus, textarea:focus{
 
 input submit {
     font-size: 12pt;
+    padding: 10px;
 }
 
 .rq {
